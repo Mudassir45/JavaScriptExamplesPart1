@@ -1,0 +1,1 @@
+document.write("<b>john Doe</b> ordered <b> 5 T-shirt(s)</b> XYZ Clothing store");

@@ -1,0 +1,12 @@
+var a;
+document.write("Value after variable declaration is undefined <br/>");
+a = 5;
+document.write("Initial value:" + a + "<br/>");
+a++;
+document.write("Value after increment is:" + a + "<br/>");
+var b = a + 7;
+document.write("Value after addition is:" + b + "<br/>");
+b--;
+document.write("Value after decrement is:" + b + "<br/>");
+var c = b / 3;
+document.write("The remainder is:" + c + "<br/>");

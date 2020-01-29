@@ -1,0 +1,10 @@
+var a = 3;
+var b = 5;
+var sub = a - b;
+var mul = a * b;
+var div = a / b;
+var mod = a % b;
+document.write("Subtraction of 3 and 5 is&nbsp" + sub + "<br/>");
+document.write("Multiplication of 3 and 5 is&nbsp" + mul + "<br/>");
+document.write("Division of 3 and 5 is&nbsp" + div + "<br/>");
+document.write("Modulus of 3 and 5 is&nbsp" + mod + "<br/>");

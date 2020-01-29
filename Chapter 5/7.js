@@ -1,0 +1,11 @@
+document.write("<h2>Shopping Cart</h2><br/>");
+var price1  = 650;
+var quantity1 = 3;
+document.write("Price of item 1 is " + price1 + "<br/>");
+var price2 = 100;
+var quantity2 = 7;
+var total = price1 * quantity1 + price2 * quantity2 + 100;
+document.write("Quantity of item 1 is " + quantity1 + "<br/>");
+document.write("Price of item 2 is " + price2 + "<br/>");
+document.write("Quantity of item 2 is " + quantity2 + "<br/>");
+document.write("Total cost of your order is " + total);
